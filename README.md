@@ -12,7 +12,15 @@ Link for readme generator : https://rahuldkjain.github.io/gh-profile-readme-gene
 
 - 📫 How to reach me **anubhabdas.ad@gmail.com**
 
-- 📄 Resume [https://bit.ly/adasresume](https://bit.ly/adasresume)
+- 📄 Resume [Link](https://bit.ly/adasresume)
+
+## Projects :
+
+1. Diagnosing Covid-19 from Lung CT Scans using transfer learning (VGG16, DenseNet121, InceptionV3, etc.) [Repo](https://github.com/anubhabdaserrr/lung-ct-scan-covid-pred-transfer-learn)
+2. Lymphoma Classification with feature selection & SMOTE [Repo](https://github.com/anubhabdaserrr/dlbcl-fl-lymphoma-classif)
+3. NoteItNow : A note-taking Express Web App [Repo](https://github.com/anubhabdaserrr/noteitnow)
+4. Removing background noise of text documents using denoising autoencoder [Repo](https://github.com/anubhabdaserrr/document-denoising-autoencoder)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
