@@ -6,7 +6,7 @@ Link for readme generator : https://rahuldkjain.github.io/gh-profile-readme-gene
 -->
 
 <h1 align="center">Hello there 👋, I'm Anubhab</h1>
-<h3 align="center">A final-year Computer Science undergrad exploring Machine Learning & Web Development</h3>
+<h3 align="center">A recent Computer Science grad exploring Machine Learning & Natural Language Processing</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubhabdaserrr" alt="anubhabdaserrr" /></a> </p> -->
 
