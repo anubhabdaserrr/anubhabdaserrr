@@ -1,5 +1,5 @@
 :wave: Hi, I'm Anubhab. <br>
-:scientist:	I'm a recent Computer Science grad exploring ML & Natural Language Processing <br>
+:scientist:	I'm a recent Computer Science grad exploring Web Development & Natural Language Processing <br>
 :brain:	Currently, I'm working on a project to study mental health using text data on social media <br>
 :man_technologist: I recently made my very first (albeit, small) open-source contribution to [BERTopic](https://github.com/MaartenGr/BERTopic) <br>
 :notes:	I love writing and listening to music <br>
