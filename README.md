@@ -1,6 +1,7 @@
 :wave: Hi, I'm Anubhab. <br>
 :scientist:	I'm a recent Computer Science grad exploring Web Development & Natural Language Processing <br>
 :brain:	Currently, I'm working on a project to study mental health using text data on social media <br>
+:scientist:	Our research on mining dream reports from Reddit has recently been published in EPJ Data Science, Springer Nature ([Link](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-025-00554-w))<br>
 :gear: Recently, I contributed a feature to [FASTopic](https://github.com/bobxwu/FASTopic) to track loss function over epochs ([PR](https://github.com/bobxwu/FASTopic/pull/13))<br>
 :man_technologist: I made my very first (albeit, small) open-source contribution to [BERTopic](https://github.com/MaartenGr/BERTopic) ([PR](https://github.com/MaartenGr/BERTopic/pull/887))<br>
 :notes:	I love writing and listening to music <br>
