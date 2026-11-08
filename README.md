@@ -6,6 +6,7 @@
 :man_technologist: I made my very first (albeit, small) open-source contribution to [BERTopic](https://github.com/MaartenGr/BERTopic) ([PR](https://github.com/MaartenGr/BERTopic/pull/887))<br>
 :notes:	I love writing and listening to music <br>
 :handshake:	Feel free to reach out to me for collaborations <br>
+:earth_asia: Elsewhere on the internet: @anubhabdaserrr
 
 <!--
 
